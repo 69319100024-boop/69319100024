@@ -1,0 +1,6 @@
+{
+  "name": "DBTech Ledger — ระบบจัดการรายรับรายจ่าย",
+  "description": "เว็บแอปพลิเคชันจัดการรายรับรายจ่าย พร้อมสรุปผลรายเดือน กราฟวิเคราะห์ข้อมูลเชิงลึก และจัดเก็บข้อมูลบน Firebase Cloud Firestore สำหรับ DBTech",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
